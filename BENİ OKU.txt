@@ -1,5 +1,6 @@
-Dikkat:
-Bunu okumadan kapatma. Bu projeyi çalıştırmak için, terminalde şu komutları çalıştırmalısın. AMA ONDAN ÖNCE PROJE KLASÖRÜNE CD İLE GİTMEYİ UNUTMA !
+# Dikkat:
+Bunu okumadan kapatma. Bu projeyi çalıştırmak için,CD komuduyla projenin dosya yolunu yazıp yani projeye girip  terminalde şu komutları çalıştırmalısın. AMA 
+ONDAN ÖNCE AYIKLAMAYI UNUTMA PROJEYİ YOKSA ÇALIŞMAZ!
 
 python -m venv .venv
 .\.venv\Scripts\python.exe -m pip install --upgrade pip
